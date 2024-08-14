@@ -10,8 +10,9 @@ Skills
 - Machine Learning
 - Feature Engineering
 - A/B testing
-- Data Visualization
+- Data Analysis & Visualization
 - Metrics & KPIs
+- Stakeholder & Cross-functional communication
 
 Tools
  - Python
