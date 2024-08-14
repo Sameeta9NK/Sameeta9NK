@@ -1,4 +1,5 @@
-Business Intelligence Analyst
+Hi, Thank you for visiting! I am currently working as a Senior Business Intelligence Analyst at Vagaro. Below are some of my key tech stack & interests. 
+Feel free to drop me a message at sameetanarkar2@gmail.com for any inquiries. 
 
 Key Areas of Interest
 - Technical Product Development
