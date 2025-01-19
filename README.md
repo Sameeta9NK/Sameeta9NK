@@ -1,6 +1,6 @@
 # Hi There!
 
-Thank you for visiting! I am currently working as a Senior Business Intelligence Analyst at Vagaro :briefcase: <br>
+Thank you for visiting! I am currently working as a Business Intelligence Analyst at Vagaro :briefcase: <br>
 I enjoy playing with data & I post some of my fun projects here on Github. Take a look below!
 
 
